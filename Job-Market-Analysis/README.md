@@ -58,7 +58,7 @@ The dataset contains job listings from various sources including:
 ## 🙋‍♀️ Author
 **Sakshi Dubey**  
 B.Tech | AI & Data Science  
-[LinkedIn](https://www.linkedin.com/in/sakshi-dubey-123456789/) | [GitHub](https://github.com/11steen)
+[LinkedIn](https://www.linkedin.com/in/sakshi-dubey-0127482a5/) | [GitHub](https://github.com/11steen)
 
 
 ---
